@@ -1,6 +1,6 @@
 # How to Prevent Client Churn with Machine Learning
 
-*TREE-BASED CLASSIFICATION*
+*Binary Classification Using Tree-Based Methods*
 
 <img src="always_has.png" alt="alt text" width="745" height="400">
 
