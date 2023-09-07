@@ -4,7 +4,7 @@
 
 <img src="always_has.png" alt="alt text" width="745" height="400">
 
-### About The Project
+### Project Summary
 
 This client churn project consists of a binary classification model that predicts which bank customers are likely to exit.  Knowing it is generally more expensive to acquire a new customer than retain an existing one, the ultimate goal is to prevent churn by providing the bank with a list of at-risk customers. The model itself showcases tree-based methods like decision trees, random forests, and includes boosting methods such as AdaBoost and XGBoost. Additionally, there is a Deployment section that dicusses a few practicle MLOps ideas.  Finally, there is Business Value-Add section that covers cost savings and real world implications.
 
