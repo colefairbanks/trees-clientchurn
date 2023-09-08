@@ -1,4 +1,4 @@
-# How to Prevent Client Churn with Machine Learning
+# Predicting Client Churn for Banks Using Tree-Based ML Models
 
 *Binary Classification Using Tree-Based Methods*
 
@@ -71,21 +71,4 @@ Cole Fairbanks
 * [Connect with Cole on LinkedIn](https://linkedin.com/in/colefairbanks/)
 * [Cole's Github Repos](https://github.com/colefairbanks?tab=repositories)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/colefairbanks/fbprophet-xforecast.svg?style=for-the-badge
-[contributors-url]: https://github.com/colefairbanks/fbprophet-xforecast/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/colefairbanks/fbprophet-xforecast.svg?style=for-the-badge
-[forks-url]: https://github.com/colefairbanks/fbprophet-xforecast/network/members
-[stars-shield]: https://img.shields.io/github/stars/colefairbanks/fbprophet-xforecast.svg?style=for-the-badge
-[stars-url]: https://github.com/colefairbanks/fbprophet-xforecast/stargazers
-[issues-shield]: https://img.shields.io/github/issues/colefairbanks/fbprophet-xforecast.svg?style=for-the-badge
-[issues-url]: https://github.com/colefairbanks/fbprophet-xforecast/issues
-[license-shield]: https://img.shields.io/github/license/colefairbanks/fbprophet-xforecast.svg?style=for-the-badge
-[license-url]: https://github.com/colefairbanks/fbprophet-xforecast/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/colefairbanks
-[product-screenshot]: images/screenshot.png
-
 © 2023 GitHub, Inc.
-
