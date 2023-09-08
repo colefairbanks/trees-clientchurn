@@ -1,6 +1,6 @@
-# Predicting Client Churn Using Tree-Based ML Models
+# Predicting Churn for Banks
 
-*Binary Classification Using Tree-Based Methods*
+*Binary Classification Using Tree-Based ML Methods*
 
 <img src="always_has.png" alt="alt text" width="745" height="400">
 
