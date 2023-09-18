@@ -1,4 +1,4 @@
-# Predicting Client Churn for Banks Using Tree-Based ML
+# Predicting Client Churn for Banks Using Decision Tree Algorithms
 
 *Binary Classification Using Tree-Based ML Methods*
 
